@@ -1,0 +1,18 @@
+{
+  "name": "finly",
+  "description": "html template",
+  "main": "index.html",
+  "authors": [
+    "laptopapik"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "html",
+    "css",
+    "js"
+  ],
+  "homepage": "https://github.com/laptopapik/finly",
+  "dependencies": {
+    "bootstrap": "4.0.0-beta"
+  }
+}
