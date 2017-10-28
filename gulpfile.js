@@ -56,7 +56,7 @@ gulp.task('browserSync', function() {
     server: {
       baseDir: 'app', //file exist
       routes: {
-        "/bower_components": "bower_components" //add for bower
+        "/bower_components": "bower_components" //add link for bower to browsersyn
     }
     },
 

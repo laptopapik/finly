@@ -1,7 +1,4 @@
-@import "test";
-
-body{
-	font-size: 15px;
-	color: white;
-	background-color: black;
-}
+@import "variables";
+@import "global";
+@import "main_header";
+@import "services";
